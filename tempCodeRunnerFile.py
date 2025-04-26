@@ -1,0 +1,1 @@
+pygame.mixer.music.load('sound/flappybird.wav')
